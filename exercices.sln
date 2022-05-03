@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exo-pierre-papier-ciseaux", "exo-pierre-papier-ciseaux\exo-pierre-papier-ciseaux.csproj", "{28C47B83-6647-4333-AECC-B42F271BDFA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28C47B83-6647-4333-AECC-B42F271BDFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C47B83-6647-4333-AECC-B42F271BDFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C47B83-6647-4333-AECC-B42F271BDFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C47B83-6647-4333-AECC-B42F271BDFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C01CC7-5BE1-4F97-BC33-BE228938B0B3}
+	EndGlobalSection
+EndGlobal
